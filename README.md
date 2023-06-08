@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratikgund99
 - 👀 I’m interested in ...computers and related
-- 🌱 I’m currently learning ...Bachelor's Of Computer Science 
+- 🌱 I’m currently learning ...Bachelor's Of Computer Aplication
 - 💞️ I’m looking to collaborate on ...coding, photography,
 - 📫 How to reach me ...pratikgund99@gmail.com
 
